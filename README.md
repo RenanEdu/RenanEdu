@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @RenanEdu
-- 👀 I’m interested in ... estagios e trabalho
-- 🌱 I’m currently learning ... sobre java Script , css e html
-- 💞️ I’m looking to collaborate on ... desenvolver  projetos em web, sites e aplicativos
-- 📫 How to reach me ... linkedln, email e whatsapp
+👋 Hi, I'm Renan Edu!
 
-<!---
-RenanEdu/RenanEdu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
--📚 I'm currently studying the fundamentals and concepts of HTML and CSS.
+👀 I'm actively seeking internships and job opportunities in the field of web development.
+
+🌱 Currently, I'm immersed in learning JavaScript, CSS, and HTML, delving into the fundamentals of these technologies and their practical applications.
+
+💼 I'm eager to collaborate on web development projects, including crafting innovative websites and applications.
+
+📚 I'm continuously expanding my knowledge, exploring the fundamentals and concepts of HTML and CSS to enhance my technical skills and make meaningful contributions to development teams.
+
+📫 Feel free to reach out to me via LinkedIn, email, or WhatsApp to discuss collaboration opportunities or to learn more about my work and experience.
+
+I hope this description helps you attract the attention of recruiters and showcases your skills and interests in the field of web development effectively. Best of luck in your search for opportunities!
