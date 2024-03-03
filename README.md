@@ -10,5 +10,3 @@
 
 📫 Feel free to reach out to me via LinkedIn, email, or WhatsApp to discuss collaboration opportunities or to learn more about my work and experience.
 link my LinkedIn: https://www.linkedin.com/in/renan-eduardo-souza-pires/
-
-I hope this description helps you attract the attention of recruiters and showcases your skills and interests in the field of web development effectively. Best of luck in your search for opportunities!
